@@ -16,8 +16,10 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
-/* For indented text */
-.tab { margin-left: 40px; }
+/* Research */
+.research h1 { font-size: 2em; }
+.research h2 { font-size: 1.2em; }
+.research .tab { margin-left: 40px; }
 
 /* Blog */
 /*ul.posts { margin: 20px auto 40px; font-size: 1.5em; }*/
