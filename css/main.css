@@ -34,4 +34,4 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /*.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }*/
 /*.cv address, .cv p { font-size: 1.2em; }*/
 /*.cv p { font-size: 1.2em; }*/
-.cv .download { float: right; font-size: .8em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv .download { float: right; font-size: 1.5em; font-weight: bold; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
