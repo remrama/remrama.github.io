@@ -1,31 +1,31 @@
-body { margin: 60px auto; width: 70%; }
+body { font-family: 'Times New Roman', Times, serif; }
 
 /* hyperlink text */
-a { text-decoration: none; color: #339; }
-a:hover { text-decoration: underline; }
+a { text-decoration: underline; color: blue; }
+
 
 /* controls main text */
-p, ul { font-size: 1em; line-height: 1.0em; color: #333; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+p, ul { font-size: 1em; line-height: 1.0em; color: #333; font-family: 'Times New Roman', Times, serif; }
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+h1, h2, h3, h4 { font-family: 'Times New Roman', Times, serif; }
 h1 { font-size: 2em; }
 h2 { font-size: 1.5em; }
 h3 { font-size: 1em; }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
+nav ul, footer ul { font-size: 1em; font-family: 'Times New Roman', Times, serif; padding: 0px; list-style: none; font-weight: bold; }
+nav ul li, footer ul li { display: inline; list-style: none; margin-right: 10px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 
 /* table stuff */
-table { width: 100%; border-collapse: collapse; }
-tr:hover {background-color: #f5f5f5;}
+table { width: 100%; border: 1px solid #000; }
+
 th, td {
   padding: 15px;
   text-align: left;
   border-bottom: 1px solid #ddd;
-  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -43,7 +43,7 @@ th, td {
 .cv p.hanging { margin-left: 20px; text-indent: -20px; }
 /*.cv h1 { font-size: 3em; }*/
 /*.cv h2 { font-size: 2em; }*/
-/*.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }*/
+/*.cv address, .cv .download { font-family: 'Times New Roman', Times, serif; }*/
 /*.cv address, .cv p { font-size: 1.2em; }*/
 /*.cv p { font-size: 1.2em; }*/
-/*.cv .download { float: right; font-size: 1.5em; font-weight: bold; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }*/
+/*.cv .download { float: right; font-size: 1.5em; font-weight: bold; font-family: 'Times New Roman', Times, serif; }*/
