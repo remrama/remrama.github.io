@@ -47,3 +47,18 @@ th, td {
 /*.cv address, .cv p { font-size: 1.2em; }*/
 /*.cv p { font-size: 1.2em; }*/
 /*.cv .download { float: right; font-size: 1.5em; font-weight: bold; font-family: 'Times New Roman', Times, serif; }*/
+
+    /* Frankenstein Theme Styles */
+    body {
+        background-color: #3D9970;
+        color: #FFFFFF;
+        font-family: 'Creepster', cursive;
+    }
+
+    a, h1, h2, h3, h4, h5, h6 {
+        color: #FFDC00;
+    }
+
+    /* Add any other styling changes here */
+
+    
