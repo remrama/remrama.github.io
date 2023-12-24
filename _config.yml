@@ -1,0 +1,6 @@
+name: Remington Mallett
+markdown: kramdown
+# permalink: /blog/:year/:month/:day/:title
+url: https://remrama.github.io/
+gems:
+  - jekyll-redirect-from
